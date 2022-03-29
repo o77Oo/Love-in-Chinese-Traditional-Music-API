@@ -1,0 +1,109 @@
+[
+    {
+      "id": "2922c286-16cd-4d43-ab98-c79f698aeab0",
+      "name": "Erhu (二胡)",
+      "chinese orchestra section": "Bowed String",
+      "feature":"The erhu is played as a solo instrument or as part of an orchestra or small ensemble.",
+      "histroy story": "It first appeared in China during the Tang Dynasty over 1,400 years ago. The erhu is believed to have originated from nomadic tribes living to the north of China. The “er” in erhu means “two” in Chinese because it has two strings. The “hu” in erhu means "barbarian" because it originated outside of China. Note that in ancient China, barbarian just meant “non-Chinese” and was not necessarily a derogatory term.",
+      "content":"The erhu is a Chinese two-stringed bowed instrument, often known as a Chinese violin. The sound of the erhu is similar to a violin. The erhu is played with a horsehair bow and the sound is produced by the vibration of the snake skin on the front of the instrument."
+    },
+    {
+        "id": "2922c286-16cd-4d43-ab98-fds9f698aeab0",
+        "name": "Dizi (笛子)",
+        "chinese orchestra section": "Wind ",
+        "feature":"The dizi is a common traditional Chinese instrument used in Chinese folk music, Chinese opera, and Chinese orchestra.",
+        "histroy story": "The dizi is one of the oldest native Chinese instruments. The dizi in its current form is over 2,500 years old.",
+        "content":"The dizi is a Chinese transverse flute usually made out of bamboo. In addition to the finger-holes, the dizi has a an additional hole between the embouchure and finger-holes for the dimo (笛膜) or di membrane, made from a thin shaving of reed glued over this hole. The dimo-covered hole produces a resonating effect on the sound, making it brighter and louder."
+        
+    },
+    {
+        "id": "2922c286-1fds-4d43-ab98-c79f698aeab0",
+        "name": "Guzheng (古箏)",
+        "chinese orchestra section": "Plucked String",
+        "feature":"The guzheng is often played as a solo instrument, in guzheng ensembles, and in Chinese orchestra. The guzheng gives a distinctly Chinese sound to the Chinese orchestra, because it is part of the Chinese orchestra's plucked string section, a section which does not exist in the Western orchestra.",
+        "histroy story": "The guzheng is one of the oldest native Chinese instruments with a more than 2,500-year history. The guzheng first appeared during the Warring States Period about 2,500 years ago and its current form dates to the Tang Dynasty about 1,400 years ago.",
+        "content":"The guzheng, also known as the Chinese zither, is a Chinese plucked string instrument with 18 to 21 strings and movable bridges. The guzheng is played with fingerpicks worn on one or both hands.  "
+    },
+    {
+        "id": "29fds2c286-16cd-4d43-ab98-c79f698aeab0",
+        "name": "Yangqin (揚琴)",
+        "chinese orchestra section": "Plucked String",
+        "feature":"The yangqin is used both as a solo instrument and in Chinese orchestra.",
+        "histroy story": "",
+        "content":"The yangqin is a Chinese hammered dulcimer, derived from the Iranian santur. The santur has existed in Persia since ancient times. The yangqin has 144 strings and four or five bridges. The yangqin's strings are struck with two lightweight bamboo beaters (also known as hammers) with rubber tips. "
+      
+    },
+    {
+        "id": "2922fds86-16cd-4d43-ab98-c79f698aeab0",
+        "name": "Pipa (琵琶)",
+        "chinese orchestra section": "​Plucked String",
+        "feature":"The pipa gives a distinctly Chinese sound to the Chinese orchestra, because it is part of the Chinese orchestra's plucked string section, a section which does not exist in the Western orchestra.",
+        "histroy story": "The pipa first appeared during the Han Dynasty over 1,800 years ago. The current pear-shaped form of the pipa dates from the Song Dynasty about 1,000 years ago. The pipa is believed to have originated in Central Asia or India. The word “pipa” is said to either be derived from the sound the instrument makes or from the Persian word for lute which is “barbat.”",
+        "content":"The pipa is a four-stringed Chinese plucked musical instrument, often known as a Chinese lute. The pipa is pear shaped and has from 12 to 28 frets. The pipa is played upright with five small plectra attached to the fingernails or with one large plectrum."
+    },
+    {
+        "id": "2922c286-16cd-4dfds3-ab98-c79f698aeab0",
+        "name": "Ruan (阮)",
+        "chinese orchestra section": "Plucked String",
+        "feature":"The ruan gives a distinctly Chinese sound to the Chinese orchestra, because it is part of the Chinese orchestra's plucked string section, a section which does not exist in the Western orchestra.",
+        "histroy story": "The ruan is a very old instrument. The earliest ruan first appeared during the Han Dynasty over 1,800 years ago. The current form of the ruan dates from the Tang Dynasty about 1,400 years ago.",
+        "content":"The ruan is a four-stringed Chinese plucked musical instrument with a circular body and a fretted neck with 24 frets. The ruan is lower pitched than the pipa. The ruan is either played with plectrum, like a guitar pick, or with acrylic nails. The ruan comes in five sizes.",
+    },
+    {
+        "id": "2922c286-16cd-4d43-fds8-c79f698aeab0",
+        "name": "Liuqin (柳琴)",
+        "chinese orchestra section": "Plucked String",
+        "feature":"The liuqin gives a distinctly Chinese sound to the Chinese orchestra, because it is part of the Chinese orchestra's plucked string section, a section which does not exist in the Western orchestra.",
+        "histroy story": "The liuqin is a relatively modern instrument that first appeared during the Qing Dynasty about three hundred years ago. The liuqin is often played in Chinese opera and Chinese orchestra.",
+        "content":"The liuqin is a four-stringed Chinese plucked instrument, often known as a Chinese mandolin. The liuqin looks like a miniature pipa with a pear-shaped body but is higher pitched that the pipa. The liuqin is played diagonally with a pick."
+    },
+    {
+        "id": "2922c286-16cd-4d43-ab98-c79f6dsfdeab0",
+        "name": "Sheng (笙)",
+        "chinese orchestra section": "​Wind",
+        "feature":"The sheng is used for melody and accompaniment in Chinese orchestras.",
+        "histroy story": "There are over 3,000 year old images depicting it and some examples from the Han Dynasty about 1,800 years old exist in museums today.  ",
+        "content":"The sheng is a Chinese hand-held mouth-blown free reed instrument with vertical pipes of different lengths, often known as a Chinese mouth organ."
+    },
+    {
+        "id": "2922c286-16cd-4d43-ab98-c79f698dsab0",
+        "name": "Suona (唢呐)",
+        "chinese orchestra section": "Wind",
+        "feature":"",
+        "histroy story": "The suona originated in either Central Asia, India, or Arabia and came to China via the Silk Road over 1,500 years ago. By the time of the Ming Dynasty about 700 years ago, the suona was already well established in China.",
+        "content":"The suona is a Chinese double-reeded horn. It has a loud and high-pitched sound often used for outdoor performances, festivals, ceremonies, and rituals. The suona comes in different sizes."
+    },
+    {
+        "id": "2922c286-16cd-4d43-ab98-c79f698aefdsa",
+        "name": "Dagu (大鼓)",
+        "chinese orchestra section": "Percussion",
+        "feature":"",
+        "histroy story": "",
+        "content":"The dagu is a large drum played with two sticks."
+    },
+    {
+        "id": "2922c286-16cd-4d43-afds98-c79aefdsa",
+        "name": "Paigu (排鼓)",
+        "chinese orchestra section": "Percussion",
+        "feature":"",
+        "histroy story": "",
+        "content":"The Paigu is a set of five tuned drums played with drum sticks."
+    },
+    {
+        "id": "vdsdsc286-16cd-4d43-ab98-c79f698aefdsa",
+        "name": "Bo (鈸)",
+        "chinese orchestra section": "Percussion",
+        "feature":"",
+        "histroy story": "",
+        "content":"The Bo are Chinese clash cymbals."
+    },
+    {
+        "id": "2922cfds-16cd-4d43-afds98-c79aefdsa",
+        "name": "Luo (鑼)",
+        "chinese orchestra section": "Percussion",
+        "feature":"",
+        "histroy story": "",
+        "content":"The Luo is a Chinese gong."
+    }
+  ]
+  
