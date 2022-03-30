@@ -2,10 +2,12 @@
     {
         "id": "84e96018-4022-434e-80bf-000ce4cd12b8",
         "title": "Hedwig's Theme played by traditional Chinese instruments",
-        "image": "/images/image0.jpeg",
+        "image": "/images/image0.png",
         "instruments": "Erhu, Dizi, Guzheng, Pipa, Guqin, Dagu",
-        "video": "https://www.youtube.com/watch?v=xUQ9rDswHdw",
+        "video": "https://www.youtube.com/watch?v=46X76wWb-YI",
         "timestamp": 1626032763000,
+        "artist":"Guqin: Lijia Ye, Dizi: Ya Gao, Pipa: Jinning Gu, Erhu: Jing Zhu, Guzheng: Chenyao Yu, Dagu: Xi Chen ",
+        "story":"This music come from Harry Potter",
         "comments": [
             {
                 "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
@@ -30,10 +32,12 @@
     {
         "id": "c05b9a93-8682-4ab6-aff2-92ebb4bbfc14",
         "title": "Yuan Qi Dao Xiang",
-        "image": "/images/image1.jpeg",
+        "image": "/images/image1.png",
         "instruments": "Xiao, Guzheng, Pipa, Guqin, Dagu",
         "video": "https://www.youtube.com/watch?v=xUQ9rDswHdw",
         "timestamp": 1625158995000,
+        "artist":"Guqin: Wuxia Bai, Xiao: Huabing Tu, Pipa: Jinning Gu, Guzheng: Chenyao Yu, Dagu: Xi Chen ",
+        "story":"This music come from the game of JX3",
         "comments": [
             {
                 "id": "ade82e25-6c87-4403-ba35-47bdff93a51c",
@@ -58,10 +62,12 @@
     {
         "id": "25ce5d91-a262-4dcf-bb87-42b87546bcfa",
         "title": "Da La Beng Ba",
-        "image": "/images/image2.jpeg",
+        "image": "/images/image2.png",
         "instruments": "Erhu, Guzheng, Pipa, Guqin, Dagu, Zhongruan, Dizi",
         "video": "https://www.youtube.com/watch?v=Yic4aNMKqys",
         "timestamp": 1622991672000,
+        "artist":"Guqin: Shan Caoi, Dizi: Ya Gao, Pipa: Jinning Gu, Guzheng: Chenyao Yu, Zhongruan: Ze Yan, Erhu: Jing Zhu, Dagu: Xi Chen ",
+        "story":"The song is called “Da La Beng Ba”, a song inspired by games and animation culture.",
         "comments": [
             {
                 "id": "7ba106bf-e74a-4c21-b59e-c485a30eea45",
@@ -86,10 +92,12 @@
     {
         "id": "b6f35f03-7936-409b-bd2a-446bcc5f30e7",
         "title": "Air on the G string",
-        "image": "/images/image3.jpeg",
+        "image": "/images/image3.png",
         "instruments": "Dizi",
         "video": "https://www.youtube.com/watch?v=JtJdy0AhFEE",
         "timestamp": 1620850202000,
+        "artist":"Zhudi: Huabing Lu, Lute: Hua Fan",
+        "story":"Johann Sebastian Bach",
         "comments": [
             {
                 "id": "a2b4ccd4-af48-46e9-9e62-b96731dad728",
@@ -118,6 +126,8 @@
         "instruments": "Guzheng",
         "video": "https://www.youtube.com/watch?v=mppeOuaPftQ",
         "timestamp": 1630656720000,
+        "artist":"GuZheng: Chenyao Yu， Compose: DengShan Zhao",
+        "story":"Tie Ma is a kind of bell in the temple.",
         "comments": [
             {
                 "id": "823f6f49-db71-49fe-9918-bde8d8da6a4a",
@@ -142,10 +152,12 @@
     {
         "id": "9c268c0a-83dc-4b96-856a-bb5ded2772b1",
         "title": "Xulai",
-        "image": "/images/image5.jpeg",
+        "image": "/images/image5.png",
         "instruments": "Pipa",
         "video": "https://www.youtube.com/watch?v=ph381j7qiIs",
         "timestamp": 1630963412000,
+        "artist":"Pipa: Jinning Gu, Compose: Tianhua Liu",
+        "story":"Latern Festival in Tang Dynasty",
         "comments": [
             {
                 "id": "52a21461-b0cc-43bc-a9d6-d52a7d4cedbe",
@@ -170,10 +182,12 @@
     {
         "id": "fc5261d1-58a0-47e4-9c19-2b7a1715fa1b",
         "title": "Birdsong in hollow valley",
-        "image": "/images/image6.jpeg",
+        "image": "/images/image6.png",
         "instruments": "Changdi, Guzheng, Guqin,",
-        "video": "https://project-2-api.herokuapp.com/stream",
+        "video": "https://www.youtube.com/watch?v=7tG8r3VBvEI",
         "timestamp": 1631532721000,
+        "artist":"Changd: Bin Tang, Guzheng: Shan Cai, Guqin: Wuxia Bai",
+        "story":"This is the costume of the Chinese Song Dynasty. Beautiful Chinese court music style.",
         "comments": [
             {
                 "id": "c93c16f0-4795-45d1-b0da-21696d54f25a",
