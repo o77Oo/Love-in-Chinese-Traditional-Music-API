@@ -13,8 +13,6 @@ router.get('/', (req, res) => {
   });
 });
 
-
-
 /*
  * Get single video by id
  */
@@ -43,12 +41,8 @@ router.post('/', (req, res) => {
     const newVideo = {
       id: uuidv4(), // creating unique id
       title: req.body.title, // incoming req.body
-      image: '/images/image5.jpeg', // hard coded image
-      channel: 'new video', // initial empty array
-      description : req.body.description, 
-      likes:0,
-      Views:0,
-      duration: '4:20',
+      image: req.body.image, // hard coded image
+      instruments: req.body.instruments, 
       timestamp: '1632344461000',
       comments:[],
       
