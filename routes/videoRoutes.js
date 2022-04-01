@@ -36,19 +36,17 @@ router.get('/:id', (req, res) => {
 router.post('/', (req, res) => {
   // read JSON file
   fs.readFile('./data/videos.json', 'utf8', (err, data) => {
-    const videosData = JSON.parse(data);
+    const videosData = JSON.parse(data.comments);
     // create new object to push to local array before saving to videos.json
-    const newVideo = {
+    const newComment = {
       id: uuidv4(), // creating unique id
-      title: req.body.title, // incoming req.body
-      image: req.body.image, // hard coded image
-      instruments: req.body.instruments, 
+      name: req.body.name,
+      comment: req.body.comments, // incoming req.body
       timestamp: '1632344461000',
-      comments:[],
       
     };
     // push new object to local array
-    videosData.push(newVideo);
+    videosData.push(newComment);
     // write data back to JSON file
     fs.writeFile('./data/videos.json', JSON.stringify(videosData), () => {
       res.json({ message: 'data written to file', data: videosData });
