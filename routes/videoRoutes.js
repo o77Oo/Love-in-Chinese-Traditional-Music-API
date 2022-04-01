@@ -33,23 +33,26 @@ router.get('/:id', (req, res) => {
 /*
  * Create a new video
  */
-router.post('/', (req, res) => {
+router.post('/:id', (req, res) => {
   // read JSON file
+  console.log(req.body)
   fs.readFile('./data/videos.json', 'utf8', (err, data) => {
-    const videosData = JSON.parse(data.comments);
+    const videosData = JSON.parse(data); console.log(videosData)
+    const findVideo = videosData.find((video) => {return video.id === req.params.id})
     // create new object to push to local array before saving to videos.json
     const newComment = {
       id: uuidv4(), // creating unique id
       name: req.body.name,
-      comment: req.body.comments, // incoming req.body
-      timestamp: '1632344461000',
+      comment: req.body.comment, // incoming req.body
+      timestamp: Date.now(),
       
     };
     // push new object to local array
-    videosData.push(newComment);
+    findVideo.comments.push(newComment);
+    findVideo.comments.sort((comment1,comment2)=>{return comment2.timestamp - comment1.timestamp});
     // write data back to JSON file
     fs.writeFile('./data/videos.json', JSON.stringify(videosData), () => {
-      res.json({ message: 'data written to file', data: videosData });
+      res.json({ message: 'data written to file', data: findVideo });
     });
   });
 });
