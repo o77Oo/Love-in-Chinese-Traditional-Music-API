@@ -4,6 +4,7 @@ const fs = require("fs");
 const { v4: uuidv4 } = require("uuid");
 
 router.post("/", (req, res) => {
+ 
   fs.readFile("./data/customer.json", "utf8", (err, data) => {
     const customerData = JSON.parse(data);
     const newComment = {
